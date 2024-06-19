@@ -1,7 +1,7 @@
 # Coding for Everyone C and C++
 This is a Specialization programme from UCSC on Coursera
 
-Personal ideas:
+- Personal ideas:
 
 At first, I just planned to use these courses to review knowledges of C/C++. 
 
